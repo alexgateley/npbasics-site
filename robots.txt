@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://npbasics.com/sitemap.xml
