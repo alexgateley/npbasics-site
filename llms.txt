@@ -1,0 +1,49 @@
+# NP Basics
+
+> NP Basics is a free exam-prep app from Grip Theory LLC for the AANPCB FNP and ANCC FNP, with 627 practice questions, a rationale for every answer choice, and mock exams built to the official test plans.
+
+- Publisher: Grip Theory LLC
+- Price: free today, with no account and no ads. A paid plan, Pro, starts in January 2027; the question of the day, the daily plan, the Reference and one mock exam stay free.
+- Platforms: Android (Google Play) and any web browser; the iPhone app is coming
+- Practice questions: 627, each with a rationale for every answer choice
+
+## Exams
+- AANPCB FNP: 537 practice questions. Exam guide: https://npbasics.com/sheets/guide-aanpcb-fnp.html. Sample questions: https://npbasics.com/practice/aanpcb-fnp.html
+- ANCC FNP: 627 practice questions. Exam guide: https://npbasics.com/sheets/guide-ancc-fnp.html. Sample questions: https://npbasics.com/practice/ancc-fnp.html
+
+## Main pages
+- [Home](https://npbasics.com/): what the app covers
+- [Web app](https://npbasics.com/app/): the full question bank, free in any browser
+- [Sample questions](https://npbasics.com/practice/): questions with answers and rationales
+- [Cheat Sheets and exam guides](https://npbasics.com/sheets/): study summaries with sources
+- [Reference](https://npbasics.com/reference/): every drug, calculator, lab group and quick card set on its own page
+
+## Cheat Sheets
+- [AANPCB FNP Exam Guide](https://npbasics.com/sheets/guide-aanpcb-fnp.html)
+- [ANCC FNP Exam Guide](https://npbasics.com/sheets/guide-ancc-fnp.html)
+- [Health Screening by Age](https://npbasics.com/sheets/np-screening-by-age.html)
+- [Immunizations: Child, Adolescent and Adult](https://npbasics.com/sheets/np-immunizations.html)
+- [Cardiovascular Primary Care](https://npbasics.com/sheets/np-cardiovascular.html)
+- [Endocrine and Metabolic Primary Care](https://npbasics.com/sheets/np-endocrine.html)
+- [Respiratory Primary Care](https://npbasics.com/sheets/np-respiratory.html)
+- [Gastrointestinal and Liver Primary Care](https://npbasics.com/sheets/np-gastrointestinal.html)
+- [Genitourinary, Renal and Men's Health](https://npbasics.com/sheets/np-gu-renal.html)
+- [HEENT Primary Care](https://npbasics.com/sheets/np-heent.html)
+- [Dermatology Primary Care](https://npbasics.com/sheets/np-dermatology.html)
+- [Musculoskeletal and Rheumatology Primary Care](https://npbasics.com/sheets/np-musculoskeletal.html)
+- [Neurology Primary Care](https://npbasics.com/sheets/np-neurology.html)
+- [Hematology Primary Care](https://npbasics.com/sheets/np-hematology.html)
+- [Infectious Disease and Immunology Primary Care](https://npbasics.com/sheets/np-infectious-immune.html)
+- [Mental Health in Primary Care](https://npbasics.com/sheets/np-mental-health.html)
+- [Women's Health and Prenatal Care](https://npbasics.com/sheets/np-womens-health-prenatal.html)
+- [Pediatrics: Growth, Development and Well-Child Visits](https://npbasics.com/sheets/np-pediatrics-well-child.html)
+- [Geriatrics in Primary Care](https://npbasics.com/sheets/np-geriatrics.html)
+- [Pharmacology by Class: Primary Care](https://npbasics.com/sheets/np-pharmacology-by-class.html)
+- [Labs and Diagnostics Interpretation](https://npbasics.com/sheets/np-labs-diagnostics.html)
+- [Professional Practice for the FNP](https://npbasics.com/sheets/np-professional-practice.html)
+
+## Reference
+- [Drugs](https://npbasics.com/drugs/): 48 pages. Monographs: indications, doses, mechanism, pharmacokinetics and cautions
+- [Calculators](https://npbasics.com/calculators/): 26 pages. Working calculators with the formula and how to read the result
+- [Lab values](https://npbasics.com/labs/): 8 pages. Reference ranges in US and SI units
+- [Quick cards](https://npbasics.com/cards/): 5 pages. Bedside tables and checklists

@@ -1,0 +1,92 @@
+{
+ "abg-steps": {
+  "hash": "904e8d05a8c700e4",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "bls-cpr-choking": {
+  "hash": "245605335d405c6e",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "electrolytes": {
+  "hash": "114fd459e0108cd0",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "guide-aanpcb-fnp": {
+  "hash": "d79081322c25dbae",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "guide-ancc-fnp": {
+  "hash": "d98e7070bcea06f5",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "np-geriatrics": {
+  "hash": "a608674672dc24d1",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "np-gu-renal": {
+  "hash": "aab5eb3dd404f5ea",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "np-immunizations": {
+  "hash": "8656d697b965e5d7",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "np-professional-practice": {
+  "hash": "86f74e0569ea17b2",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "rhythm-gallery": {
+  "hash": "20b51aeb71cd4d74",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ }
+}
